@@ -6,14 +6,14 @@
 
 | STT | Họ và tên | Mã học viên | Vai trò trong nhóm (VD: facilitator, workflow, research, writer) |
 |-----|-----------|-------------|---------------------------------------------------------------|
-| 1   |           |             |                                                               |
-| 2   |           |             |                                                               |
-| 3   |           |             |                                                               |
-| 4   |           |             |                                                               |
+| 1 | Nguyễn Thị Mừng | 2A202602575 | Pitch Problem, Vẽ Workflow, Định nghĩa Metrics |
+| 2 | Nguyễn Huy Hùng | 2A202602990 | Đóng góp ý tưởng, Phản biện kỹ thuật |
+| 3 | Lê Đức Tùng | 2A202603005 | Tìm kiếm tài liệu, Research các giải pháp AI |
+| 4 | Đào Thanh Trường | 2A202602683 | Phân tích Impact, Đánh giá rủi ro (Risk) |
+| 5 | Trường Thị Như Ý | 2A202602372 | Gom nhóm (Cluster) ý tưởng, Củng cố báo cáo |
 
 **Candidate problem nhóm chọn (1 câu):**
-
-
+Trông trẻ em nằm nôi bằng.
 ---
 
 ## Phase 3 — Group Convergence: từ 9-12 candidates về 1
@@ -112,7 +112,7 @@ Trông trẻ em nằm nôi
 Pain thật không chỉ là tốn thời gian, mà là nỗi sợ tột độ về an toàn của trẻ dẫn đến mất ngủ triền miên.
 ```
 
-Bằng chứng đính kèm (nếu có): `02-group-problem-statement-survey.png`, `...-interview-notes.md`
+Bằng chứng đính kèm (nếu có): [evidence.md](./evidence.md) (Chi tiết trích dẫn y khoa và phỏng vấn)
 
 ### 4.2. Research giải pháp đã có (ít nhất 2-3 tools/patterns + 1-2 link kiểm được)
 
